@@ -1,22 +1,8 @@
-## Hello there 👋
 
-<!--
-**Wellwellwell1234/Wellwellwell1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 # 👋 Привет!
 
-Меня зовут **Ваше Имя**, и я увлеченный разработчик Python. Здесь собраны мои проекты и достижения.
+Меня зовут великий и ужасный Wellwellwellыч, и я  разработчик Python.
 
 ## 💻 Технологии
 
@@ -27,6 +13,8 @@ Here are some ideas to get you started:
 - **Git** ✨
 
 ## 📌 Контакты
+
+Не будет, идите в роблокс играйте АУУУУ
 
 Для связи можете воспользоваться моими контактами ниже:
 - Email: ваш_почтовый_ящик@домен.ru
